@@ -6,18 +6,21 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 ### A few highlights...
 
-#### Frameworks
+#### Languages & Frameworks
 
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
+- [Craft](https://github.com/home-lang/craft) - Performant, native desktop & mobile apps with web languages.
+- [Headwind](https://github.com/stacksjs/headwind) - A Tailwind-like utility-first CSS framework. _Powered by Bun._
+- [Home](https://github.com/home-lang/home) - The speed of Zig. The safety of Rust. The joy of TypeScript.
 - [Launchpad](https://github.com/stacksjs/launchpad) - Performant system & project dependency management. _Similar to Homebrew, just faster._
 - [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
 
 #### Sponsorware
 
-- [Bun Queue - UI](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
-- [Bun Router - UI](https://github.com/stacksjs/bun-router) - A UI for Bun Router. _High-performance, feature-rich._
+- [`bun-queue`](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
+- [`bun-router`](https://github.com/stacksjs/bun-router) - Powerful routing. _High-performance, feature-rich._
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
 - [Stacks ORM - DynamoDB Driver](https://github.com/stacksjs/stacks) - More than a driver—automated Single Table Design. _Cheap, fast, endless scalability._
 - [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
@@ -34,6 +37,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
 - [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
 - [backupx](https://github.com/stacksjs/backupx) - Comprehensive & performant database and file backup solution.
+- [besting](https://github.com/stacksjs/besting) - A modern & extremely performant testing framework. _Browser, CLI, API testing-ready._
 - [buddy-bot](https://github.com/stacksjs/buddy) - Just like Renovate and Dependabot, just open source & self-hosted.
 - [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
@@ -63,15 +67,17 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-datetime](https://github.com/stacksjs/ts-datetime) - Performant & powerful datetime library. _Carbon-API inspired._
+- [ts-error-handling](https://github.com/stacksjs/ts-error-handling) - Fully typed error handling.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-i18n](https://github.com/stacksjs/ts-i18n) - A fully-typed i18n experience.
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
+- [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
+- [ts-mocker](https://github.com/stacksjs/ts-mocker) - Performance-focused & lightweight TypeScript faker library. _Comprehensive locale support._
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
 - [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
-- [ts-potrace](https://github.com/stacksjs/ts-potrace) - Transform bitmap images into scalable vector graphics.
 - [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
@@ -79,9 +85,11 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-slug](https://github.com/stacksjs/ts-slug) - Lightweight slug generation. _Browser & Bun / Node.js compatible._
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
 - [ts-svg](https://github.com/stacksjs/ts-svg) - Powerful developer toolkit for working with SVGs.
+- [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter) - A syntax highlighter for the modern web. _Built for performance._
 - [ts-validation](https://github.com/stacksjs/ts-validation) - Lightweight & performant form & request data validation library.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
+- [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper) - Powerful, type-safe web scraping tooling.
 - [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
 
 #### Plugins & Actions
@@ -104,6 +112,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 #### Templates
 
+- [better-dx](https://github.com/stacksjs/better-dx) - A better Developer Experience. _Extremely lightweight & performant._
 - [projects](https://github.com/stacksjs/projects) - A minimal personal portfolio template.
 - [ts-starter](https://github.com/stacksjs/ts-starter) - A rather barebones Bun & TypeScript starting point for libraries & CLIs.
 - [ts-starter-monorepo](https://github.com/stacksjs/ts-starter-monorepo) - Like our `ts-starter`, but optimized for monorepos.
