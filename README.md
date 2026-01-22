@@ -8,77 +8,77 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 #### Languages & Frameworks
 
+- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
 - [Craft](https://github.com/home-lang/craft) - Performant, native desktop & mobile apps with web languages.
-- [Headwind](https://github.com/stacksjs/headwind) - A Tailwind-like utility-first CSS framework. _Powered by Bun._
-- [Home](https://github.com/home-lang/home) - The speed of Zig. The safety of Rust. The joy of TypeScript.
-- [Launchpad](https://github.com/stacksjs/launchpad) - Performant system & project dependency management. _Similar to Homebrew, just faster._
-- [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
-- [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
+- [Crosswind](https://github.com/cwcss/crosswind) - A Tailwind-like utility-first CSS framework. _Powered by Bun._
+- [Home](https://github.com/home-lang/home) - Speed of Zig. Safety of Rust. Joy of TypeScript.
+- [Pantry](https://github.com/home-lang/pantry) - Performant system & project dependency management. _Similar to Homebrew, just faster._
 
 #### Sponsorware
 
 - [`bun-queue`](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
 - [`bun-router`](https://github.com/stacksjs/bun-router) - Powerful routing. _High-performance, feature-rich._
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
-- [Stacks ORM - DynamoDB Driver](https://github.com/stacksjs/stacks) - More than a driver—automated Single Table Design. _Cheap, fast, endless scalability._
 - [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
 
 #### Apps
 
-<!-- - [aax](https://github.com/stacksjs/aax) - An app to easily convert your Audible files. -->
 - [Barista](https://github.com/stacksjs/barista) - A lightweight macOS utility that serves up a perfectly organized menubar.
 - [Hush](https://github.com/stacksjs/hush) - Lightweight macOS utility that ensures notifications are suppressed during meetings.
 - [Pomodoro](https://github.com/stacksjs/pomodoro) - Minimal, functional, yet simple Pomodoro menubar app, to help stay focussed. _For Mac._
 
 #### Libraries & CLIs
 
-- [aax](https://github.com/stacksjs/aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
-- [audiox](https://github.com/stacksjs/audiox) - Powerful audio processing for your workflows.
-- [backupx](https://github.com/stacksjs/backupx) - Comprehensive & performant database and file backup solution.
 - [besting](https://github.com/stacksjs/besting) - A modern & extremely performant testing framework. _Browser, CLI, API testing-ready._
 - [buddy-bot](https://github.com/stacksjs/buddy) - Just like Renovate and Dependabot, just open source & self-hosted.
 - [bumpx](https://github.com/stacksjs/bumpx) - Bump your version numbers automatically.
 - [bun-git-hooks](https://github.com/stacksjs/bun-git-hooks) - A simple git hooks manager for all-sized Bun projects.
 - [bun-query-builder](https://github.com/stacksjs/bun-query-builder) - A safe, performant & fully-typed query builder.
 - [bun-queue](https://github.com/stacksjs/queue) - A modern port of BullMQ. _Optimized for Bun usage._
-- [bun-router](https://github.com/stacksjs/router) - A powerful yet lightweight router for your server. _Used by Stacks._
+- [bun-router](https://github.com/stacksjs/bun-router) - A powerful yet lightweight router for your server. _Used by Stacks._
 - [bunfig](https://github.com/stacksjs/bunfig) - Lightweight & smart Bun configuration loader.
 - [clarity](https://github.com/stacksjs/clarity) - Modern debugging & logging for browser & server.
 - [dtsx](https://github.com/stacksjs/dtsx) - Extremely fast & configurable DTS emitter.
-- [dnsx](https://github.com/stacksjs/dnsx) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [gitit](https://github.com/stacksjs/gitit) - A simple way to download templates stored using git.
 - [gitlint](https://github.com/stacksjs/gitlint) - Minimal & fast Git commit message linting & formatting.
 - [httx](https://github.com/stacksjs/httx) - A modern, user-friendly command-line & library HTTP client _“for the API era.”_
-- [imgx](https://github.com/stacksjs/imgx) - Make your images load faster. _A better save for the web._
-- [jpgx](https://github.com/stacksjs/jpgx) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
 - [localtunnels](https://github.com/stacksjs/localtunnels) - A simple and smart tunneling alternative. _Without or with self-hosting._
 - [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [pickier](https://github.com/stacksjs/pickier) - Format, lint, and more—in a fraction of second.
-- [pngx](https://github.com/stacksjs/pngx) - Modern PNG encoder & decoder.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
 - [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
+- [ts-aax](https://github.com/stacksjs/ts-aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
+- [ts-audio](https://github.com/stacksjs/ts-audio) - Powerful audio processing for your workflows.
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
+- [ts-backups](https://github.com/stacksjs/ts-backups) - Comprehensive & performant database and file backup solution.
+- [ts-bmp](https://github.com/stacksjs/ts-bmp) - A pure TypeScript BMP encoder and decoder with zero dependencies.
+- [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
 - [ts-cache](https://github.com/stacksjs/ts-cache) - A fast, type-safe, and feature-rich caching library for modern applications.
 - [ts-clone](https://github.com/stacksjs/ts-clone) - Deeply clone arbitrary objects using TypeScript.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-datetime](https://github.com/stacksjs/ts-datetime) - Performant & powerful datetime library. _Carbon-API inspired._
+- [ts-dns](https://github.com/stacksjs/ts-dns) - A command-line & library DNS client. _Like dig & dog, but for TypeScript._
 - [ts-error-handling](https://github.com/stacksjs/ts-error-handling) - Fully typed error handling.
 - [ts-gif](https://github.com/stacksjs/ts-gif) - Performant TypeScript implementation of a GIF encoder & decoder.
 - [ts-i18n](https://github.com/stacksjs/ts-i18n) - A fully-typed i18n experience.
+- [ts-images](https://github.com/stacksjs/ts-images) - Make your images load faster. _A better save for the web._
 - [ts-inputs](https://github.com/stacksjs/ts-inputs) - Modern input masking.
-- [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
+- [ts-jpeg](https://github.com/stacksjs/ts-jpeg) - A TypeScript JPEG encoder & decoder for Bun & Node.js.
+- [ts-markdown](https://github.com/stacksjs/ts-markdown) - Extremely performant & lightweight markdown parser & compiler.
 - [ts-maps](https://github.com/stacksjs/ts-maps) - Modern & lightweight library for creating interactive vector maps.
 - [ts-medium-editor](https://github.com/stacksjs/ts-medium-editor) - A modern, minimal & performant Medium-like rich text editor.
 - [ts-mocker](https://github.com/stacksjs/ts-mocker) - Performance-focused & lightweight TypeScript faker library. _Comprehensive locale support._
 - [ts-ndarray](https://github.com/stacksjs/ts-ndarray) - Multidimensional arrays for JavaScript & TypeScript.
 - [ts-numbers](https://github.com/stacksjs/ts-numbers) - Lightweight currencies, weights, phone numbers, and more. _Localized._
-- [ts-pkgx](https://github.com/stacksjs/ts-pkgx) - Automated Typed Pantry details.
-- [ts-prompts](https://github.com/stacksjs/ts-prompts) - Build modern & pretty CLI applications.
+- [ts-open-api](https://github.com/stacksjs/ts-open-api) - OpenAPI TypeScript automations.
+- [ts-pantry](https://github.com/stacksjs/ts-pantry) - Automated Typed Pantry details.
+- [ts-png](https://github.com/stacksjs/ts-png) - Modern PNG encoder & decoder.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
@@ -88,9 +88,10 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-syntax-highlighter](https://github.com/stacksjs/ts-syntax-highlighter) - A syntax highlighter for the modern web. _Built for performance._
 - [ts-validation](https://github.com/stacksjs/ts-validation) - Lightweight & performant form & request data validation library.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
+- [ts-videos](https://github.com/stacksjs/ts-videos) - Make your videos load faster. _A better save for the web._
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper) - Powerful, type-safe web scraping tooling.
-- [vidx](https://github.com/stacksjs/vidx) - Make your videos load faster. _A better save for the web._
+- [very-happy-dom](https://github.com/stacksjs/very-happy-dom) - A blazing-fast DOM implementation.
 
 #### Plugins & Actions
 
