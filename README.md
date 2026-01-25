@@ -19,8 +19,6 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 
 #### Sponsorware
 
-- [`bun-queue`](https://github.com/stacksjs/bun-queue) - A modern & powerful Queue / Messaging system. _Optimized for Bun._
-- [`bun-router`](https://github.com/stacksjs/bun-router) - Powerful routing. _High-performance, feature-rich._
 - [Stacks Dashboard](https://github.com/stacksjs/stacks) - The Stacks Dashboard. _For developers, and their clients._
 - [Stacks Raycast](https://github.com/stacksjs/stacks) - Stacks _(and Buddy)_ integrated into Raycast.
 
@@ -49,10 +47,9 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [logsmith](https://github.com/stacksjs/logsmith) - Forge beautiful changelogs from your commits.
 - [pickier](https://github.com/stacksjs/pickier) - Format, lint, and more—in a fraction of second.
 - [post](https://github.com/stacksjs/post) - The Post. A modern mail server & utilities. _Ships with a CLI, library, and UI._
-- [qrx](https://github.com/stacksjs/qrx) - QR & Bar Code generating & reading. _Lightweight & powerful._
-- [rpx](https://github.com/stacksjs/rpx) - A modern, fast reverse proxy. _For a better local development environment._
 - [tlsx](https://github.com/stacksjs/tlsx) - A TLS library with automation & HTTPS by default.
 - [ts-aax](https://github.com/stacksjs/ts-aax) - A library to work with Audible's .aax files. _Cross-platform app coming soon._
+- [ts-analytics](https://github.com/stacksjs/ts-analytics) - Privacy-first analytics for web applications.
 - [ts-audio](https://github.com/stacksjs/ts-audio) - Powerful audio processing for your workflows.
 - [ts-avif](https://github.com/stacksjs/ts-avif) - High quality & small file sizes.
 - [ts-backups](https://github.com/stacksjs/ts-backups) - Comprehensive & performant database and file backup solution.
@@ -80,7 +77,9 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-pantry](https://github.com/stacksjs/ts-pantry) - Automated Typed Pantry details.
 - [ts-png](https://github.com/stacksjs/ts-png) - Modern PNG encoder & decoder.
 - [ts-punycode](https://github.com/stacksjs/ts-punycode) - Lightweight Punycode converter. _RFC 3492 & RFC 5891 supported._
+- [ts-qr-codes](https://github.com/stacksjs/ts-qr-codes) - QR & Bar Code generating & reading. _Lightweight & powerful._
 - [ts-rate-limiter](https://github.com/stacksjs/ts-rate-limiter) - High-performance, flexible rate limiting library. _For TypeScript._
+- [ts-reverse-proxy](https://github.com/stacksjs/ts-reverse-proxy) - A modern, fast reverse proxy. _For a better local development environment._
 - [ts-security](https://github.com/stacksjs/ts-security) - Performant & lightweight cryptography tooling.
 - [ts-slug](https://github.com/stacksjs/ts-slug) - Lightweight slug generation. _Browser & Bun / Node.js compatible._
 - [ts-spreadsheets](https://github.com/stacksjs/ts-spreadsheets) - Easily generate spreadsheets, like CSVs and Excel files.
