@@ -57,6 +57,7 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-broadcasting](https://github.com/stacksjs/ts-broadcasting) - Realtime the simple & performant way.
 - [ts-cache](https://github.com/stacksjs/ts-cache) - A fast, type-safe, and feature-rich caching library for modern applications.
 - [ts-clone](https://github.com/stacksjs/ts-clone) - Deeply clone arbitrary objects using TypeScript.
+- [ts-cloud](https://github.com/stacksjs/ts-cloud) - Zero-dependency, modern infrastructure-as-code framework.
 - [ts-collect](https://github.com/stacksjs/ts-collect) - A powerful, yet lightweight, Laravel-like Collections written for TypeScript.
 - [ts-countries](https://github.com/stacksjs/ts-countries) - Modern, lightweight, elegant country data management.
 - [ts-datetime](https://github.com/stacksjs/ts-datetime) - Performant & powerful datetime library. _Carbon-API inspired._
@@ -88,6 +89,8 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [ts-validation](https://github.com/stacksjs/ts-validation) - Lightweight & performant form & request data validation library.
 - [ts-vat](https://github.com/stacksjs/ts-vat) - Simply handle EU MOSS tax & VAT regulations & calculations.
 - [ts-videos](https://github.com/stacksjs/ts-videos) - Make your videos load faster. _A better save for the web._
+- [ts-video-player](https://github.com/stacksjs/ts-video-player) - A modern, framework-agnostic video player.
+- [ts-watches](https://github.com/stacksjs/ts-watches) - Downloading, parsing, and analyzing data from smartwatches and fitness devices.
 - [ts-webp](https://github.com/stacksjs/ts-webp) - A modern image format for the Web.
 - [ts-web-scraper](https://github.com/stacksjs/ts-web-scraper) - Powerful, type-safe web scraping tooling.
 - [very-happy-dom](https://github.com/stacksjs/very-happy-dom) - A blazing-fast DOM implementation.
