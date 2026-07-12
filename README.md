@@ -13,8 +13,8 @@ My name is Chris. I am 32 years old & a passionate open-source developer who lov
 - [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
 - [Craft](https://github.com/home-lang/craft) - Performant, native desktop & mobile apps with web languages.
-- [Crosswind](https://github.com/cwcss/crosswind) - A Tailwind-like utility-first CSS framework. _Powered by Bun._
-- [Home](https://github.com/home-lang/home) - Speed of Zig. Safety of Rust. Joy of TypeScript.
+- [Crosswind](https://github.com/cwcss/crosswind) - A Tailwind-like utility-first CSS framework.
+- [Home](https://github.com/home-lang/home) - Control of Zig. Safety of Rust. Joy of TypeScript.
 - [Pantry](https://github.com/home-lang/pantry) - Performant system & project dependency management. _Similar to Homebrew, just faster._
 
 #### Sponsorware
