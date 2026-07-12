@@ -10,12 +10,12 @@ My name is Chris. I am in my thirties & a passionate open-source developer who l
 
 - [Stacks](https://github.com/stacksjs/stacks) - Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [stx](https://github.com/stacksjs/stx) - A fast & powerful UI framework. _Templating inspired by Laravel Blade & Vue._
-- [BunPress](https://github.com/stacksjs/bunpress) - Modern documentation-needs covered. _Coming soon._
+- [BunPress](https://github.com/stacksjs/bunpress) - Modern & performant documentation-needs covered.
 - [Clapp](https://github.com/stacksjs/clapp) - A modern framework to build powerful & pretty CLI apps.
 - [Craft](https://github.com/home-lang/craft) - Performant, native desktop & mobile apps with web languages.
 - [Crosswind](https://github.com/cwcss/crosswind) - A Tailwind-like utility-first CSS framework.
 - [Home](https://github.com/home-lang/home) - Control of Zig. Safety of Rust. Joy of TypeScript.
-- [Pantry](https://github.com/home-lang/pantry) - Performant system & project dependency management. _Similar to Homebrew, just faster._
+- [Pantry](https://github.com/pantry-pm/pantry) - Performant system & project dependency management. _Similar to Homebrew, just faster._
 
 #### Sponsorware
 
