@@ -48,4 +48,4 @@ ___
 
 Connect with me here, on Discord, or on Bluesky—would love to hear from you!
 
-_Oh, and say hi to our mascot & CLI inspiration, [Buddy](https://www.instagram.com/somebuddyspecial/)—the doggie & partner in crime._
+_Oh, and say hi to our mascot & CLI inspiration, [Buddy](https://www.instagram.com/somebuddyspecial/)—the doggie in crime._
