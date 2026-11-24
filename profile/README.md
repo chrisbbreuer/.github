@@ -12,18 +12,15 @@ I build [Stacks](https://github.com/stacksjs/stacks), open-source developer tool
 - [Scout](https://github.com/stacksjs/launchpad) - A keyboard-first Mac launcher for apps, files, quicklinks, snippets, and system commands.
 - [Hush](https://github.com/stacksjs/hush) - Automatically silence Mac notifications while you share your screen.
 - [Uplink](https://github.com/stacksjs/uplink) - Reach Claude Code or Codex on your Mac from Messages, including over satellite on supported iPhones.
-- [Texts](https://github.com/stacksjs/texts) - A Mac inbox and searchable archive for Messages, WhatsApp, Slack, and Discord.
 
 I also built [Barista](https://github.com/stacksjs/barista) for organizing the menu bar and [Pomodoro](https://github.com/stacksjs/pomodoro) for focus sessions.
 
-## Web apps and developer tools
+## Apps and developer tools
 
 - [HQ.training](https://hq.training) - Memberships, billing, scheduling, and training data for gyms, coaches, and athletes.
 - [Wildloop](https://wildloop.org) - Discover trails, record your runs, and claim territory by closing a loop.
 - [TinkerBelle](https://github.com/stacksjs/tinkerbelle) - Run TypeScript against your app locally or on a server.
-- [Kept](https://github.com/stacksjs/library) - Tasks, notes, and shareable prompt libraries on the web and Mac.
 - [Postline](https://github.com/stacksjs/postline) - Self-hosted social publishing with scheduling, analytics, and a unified inbox.
-- [Cursio](https://github.com/stacksjs/cursio) - Run an online school with a learning management system built on Stacks.
 
 ## Open source
 
